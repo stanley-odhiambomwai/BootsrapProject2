@@ -16,11 +16,10 @@ h1{
 #color-box {
     width: 300px;
     height: 300px;
-    background-color: #3498db; /* Default color */
-    margin: 20px auto; /* Center the box */
+    background-color: #3498db;
+    margin: 20px auto; 
     border-radius: 10px;
-    transition: background-color 0.3s ease; /* Smooth transition for color change */
-}
+    transition: background-color 0.3s ease;}
 
 /* Style the button */
 #change-color-btn {
